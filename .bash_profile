@@ -1,0 +1,4 @@
+startx
+~/.profile
+~/.bashrc
+
