@@ -1,0 +1,13 @@
+#!/bin/bash
+
+mantemp=$(man -k . | dmenu -i -l 30 | awk '{print $1}')
+
+man $mantemp 2> manerror > /dev/null &
+if [ "$mantemp" == "" ] || [ "$(awk '{print $1}' manerror)" == "No" ]
+then
+	echo ""
+	echo "No manual selected, exiting"
+else
+	man -Tpdf $mantemp | zathura -
+fi
+rm manerror

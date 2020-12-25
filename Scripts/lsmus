@@ -1,0 +1,83 @@
+#!/bin/bash
+
+printUsage()
+{
+	cat <<HELP
+
+Usage: lsmus [OPTION] ...
+	-f [file-format]	specify audio file format
+	-s [source-directory]	specify directory
+	-a [1 or 0]		add to library (1) or not (0, default)
+	-p [1 or 0]		play the song (1, default) or not (0)
+
+HELP
+}
+
+while getopts f:s:a:p: flag
+do
+	case "${flag}" in
+		f) fileformat=${OPTARG};;	
+		s) sourcedirectory=${OPTARG};;
+		a) addtolibrary=${OPTARG};;
+		p) play=${OPTARG};;
+		*) printUsage; exit;;
+	esac
+done
+
+if [ "$sourcedirectory" == "" ]
+then
+	sourcedirectory="$(pwd)"
+elif [[ "$sourcedirectory" = * ]]
+then
+	if [[ "$sourcedirectory" = */home/* ]]
+	then
+		sourcedirectory="$sourcedirectory"
+	else
+		sourcedirectory="$(pwd)/$sourcedirectory"
+	fi
+fi
+
+currentpath=$(pwd)
+
+if [ "$fileformat" == "" ] && [ "$sourcedirectory" == "$(pwd)" ] && [ "$addtolibrary" == "" ]
+then
+	printUsage
+	exit
+fi
+
+if [ "$fileformat" == "" ]
+then
+	echo "File format not specified, try again with -f"
+else
+	cd $sourcedirectory
+	ls *$fileformat 2> temperror
+	if [ "$(awk '{print $1}' temperror)" = "ls:" ]
+	then
+		rm temperror
+		echo "No music found in current directory $sourcedirectory with file format $fileformat"
+	else		
+		tempsong=$(ls *$fileformat | dmenu -i -l 30)
+		if [ "$tempsong" = "" ]
+		then
+			echo ""
+			echo "No music selected, exiting"
+		else	
+			echo ""
+			if [ "$addtolibrary" == 1 ]
+			then
+				cmus-remote -C "add $sourcedirectory/$tempsong"
+				echo "Added $tempsong to library"
+			fi
+			if [ "$play" == 1 ] || [ "$play" == "" ]
+			then
+				cmus-remote -C "player-play $sourcedirectory/$tempsong"
+				echo "Now playing song $tempsong"
+			fi
+		fi
+		rm temperror
+	fi
+	cd $currentpath
+fi
+
+
+
