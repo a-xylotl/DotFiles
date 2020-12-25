@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.kanogames.com/free-rider-3"
+      },
+      "urls": [ "http://www.kanogames.com/free-rider-3" ]
+   },
+   "description": "The only official sequel to Free Rider 2 and replacement to Canvas Rider.",
+   "icons": {
+      "128": "app_icon_128x128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDZvpiGvot4v082wKOhYBBwJwdcsuUckoFaa1kumUpF2A+eVWFCmluIXhDVC94BAVxlr9GpADwTDfdC+zD1VO3fu6nZNvbrijldEaLyTkJW4FaYi37ERSsh+YY//MwF7ytFQIdFydBEqnbiAFKtSjnbhpWPITglZaCq3BXXR9PtEQIDAQAB",
+   "manifest_version": 2,
+   "name": "Free Rider 3",
+   "short_name": "Free Rider 3",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.1"
+}

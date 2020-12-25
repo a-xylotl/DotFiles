@@ -1,0 +1,6 @@
+{
+    "bitrate": 3000,
+    "crf": 20,
+    "preset": "superfast",
+    "rate_control": "VBR"
+}

@@ -1,0 +1,24 @@
+2020/12/24-01:11:41.830 116e24 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/Session Storage/MANIFEST-000001
+2020/12/24-01:11:41.833 116e24 Recovering log #295
+2020/12/24-01:11:41.833 116e24 Reusing old log /home/aaxyl/.config/chromium/Default/Session Storage/000295.log 
+2020/12/24-02:07:24.700 185fad Level-0 table #300: started
+2020/12/24-02:07:24.782 185fad Level-0 table #300: 22244 bytes OK
+2020/12/24-02:07:24.819 185fad Delete type=0 #295
+2020/12/24-12:51:44.540 25679c Level-0 table #302: started
+2020/12/24-12:51:44.634 25679c Level-0 table #302: 80052 bytes OK
+2020/12/24-12:51:44.674 25679c Delete type=0 #299
+2020/12/24-13:01:46.391 25ab95 Level-0 table #304: started
+2020/12/24-13:01:46.489 25ab95 Level-0 table #304: 75100 bytes OK
+2020/12/24-13:01:46.532 25ab95 Delete type=0 #301
+2020/12/25-13:24:16.590 356a4c Level-0 table #306: started
+2020/12/25-13:24:16.671 356a4c Level-0 table #306: 28053 bytes OK
+2020/12/25-13:24:16.705 356a4c Delete type=0 #303
+2020/12/25-13:24:16.705 357150 Compacting 4@0 + 1@1 files
+2020/12/25-13:24:16.763 357150 Generated table #307@0: 12690 keys, 396625 bytes
+2020/12/25-13:24:16.764 357150 Compacted 4@0 + 1@1 files => 396625 bytes
+2020/12/25-13:24:16.795 357150 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/12/25-13:24:16.795 357150 Delete type=2 #300
+2020/12/25-13:24:16.795 357150 Delete type=2 #306
+2020/12/25-13:24:16.795 357150 Delete type=2 #297
+2020/12/25-13:24:16.795 357150 Delete type=2 #302
+2020/12/25-13:24:16.795 357150 Delete type=2 #304

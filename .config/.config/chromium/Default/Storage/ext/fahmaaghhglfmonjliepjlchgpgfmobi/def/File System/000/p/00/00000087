@@ -1,0 +1,35 @@
+
+
+-------session starts-------
+
+[12-25 3:58:6.457] INFO: MediaGallery: name=/home/aaxyl/Music, galleryId=1, isMediaDevice=false, deviceId=undefined
+[12-25 3:58:6.459] INFO: MediaGallery: name=/home/aaxyl/Pictures, galleryId=2, isMediaDevice=false, deviceId=undefined
+[12-25 3:58:6.459] INFO: MediaGallery: name=/home/aaxyl/Videos, galleryId=3, isMediaDevice=false, deviceId=undefined
+[12-25 3:58:6.460] INFO: Starts a quick scan on /home/aaxyl/Music
+[12-25 3:58:6.461] INFO: Iterating over dir / from source /home/aaxyl/Music
+[12-25 3:58:6.462] INFO: Starts a quick scan on /home/aaxyl/Pictures
+[12-25 3:58:6.462] INFO: Iterating over dir / from source /home/aaxyl/Pictures
+[12-25 3:58:6.463] INFO: Starts a quick scan on /home/aaxyl/Videos
+[12-25 3:58:6.463] INFO: Iterating over dir / from source /home/aaxyl/Videos
+[12-25 3:58:6.464] INFO: Starting periodic scan.
+[12-25 3:58:6.466] INFO: Iterating over dir /EDM_Paid from source /home/aaxyl/Music
+[12-25 3:58:6.467] INFO: Iterating over dir /Background from source /home/aaxyl/Pictures
+[12-25 3:58:6.467] INFO: Iterating over dir /Raws from source /home/aaxyl/Videos
+[12-25 3:58:6.482] INFO: /home/aaxyl/Music contains music file
+[12-25 3:58:6.483] INFO: Iterating over dir /Screenshots from source /home/aaxyl/Pictures
+[12-25 3:58:6.483] INFO: /home/aaxyl/Videos does not contain music file
+[12-25 3:58:6.493] INFO: Iterating over dir /Memes from source /home/aaxyl/Pictures
+[12-25 3:58:6.496] INFO: Iterating over dir /Notes from source /home/aaxyl/Pictures
+[12-25 3:58:6.497] INFO: Iterating over dir /Notes/Networking from source /home/aaxyl/Pictures
+[12-25 3:58:6.498] INFO: lsUserAddedMusicSourceIds=null
+[12-25 3:58:6.499] INFO: lsLastTrackFailureLoggingTime=null
+[12-25 3:58:6.499] INFO: lsSyncMusicEnabled=null
+[12-25 3:58:6.499] INFO: lsAppActivated=false
+[12-25 3:58:6.500] INFO: /home/aaxyl/Pictures does not contain music file
+[12-25 3:58:6.501] INFO: lsUserSelectedDownloadDirId=null
+[12-25 3:58:6.505] INFO: lsDefaultDownloadLocationId=null
+[12-25 3:58:6.505] INFO: Setting is already: lsAlwaysUseDefaultDownloadLocation = false
+[12-25 3:58:6.508] INFO: Setting is already: lsDefaultDownloadLocationId = null
+[12-25 3:58:6.508] INFO: Got the drag_and_drop directory
+[12-25 3:58:8.701] INFO: Fetched user settings from server.
+[12-25 3:58:8.705] INFO: chromeapp:O ready

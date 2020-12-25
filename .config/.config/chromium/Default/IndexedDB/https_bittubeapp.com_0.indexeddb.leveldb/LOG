@@ -1,0 +1,5 @@
+2020/12/01-09:06:17.873 13670 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_bittubeapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/01-09:07:29.872 1429d Level-0 table #5: started
+2020/12/01-09:07:29.906 1429d Level-0 table #5: 1147 bytes OK
+2020/12/01-09:07:29.938 1429d Delete type=0 #3
+2020/12/01-09:07:29.938 13670 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,18 @@
+colorscheme
+colorscheme cyan
+add ~/Music
+clear
+add
+add ~/Music/EDM_Free/Adair & OmegaMode - Among Us.mp3
+add /home/aaxyl/Music/EDM_Free/Chime & LoneMoon - Chemistry.mp3
+play
+play Adair 
+add ~/Music/EDM_Free/Adair & OmegaMode - God Code.mp3
+play Among Us
+playt
+add 
+help
+play 
+live-filter
+Pane
+add /home/aaxyl/Music

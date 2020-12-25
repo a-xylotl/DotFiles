@@ -1,0 +1,5 @@
+2020/12/06-21:18:59.352 37dff9 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_www.cnet.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/06-21:19:07.667 37dfd2 Level-0 table #5: started
+2020/12/06-21:19:07.720 37dfd2 Level-0 table #5: 1339 bytes OK
+2020/12/06-21:19:07.796 37dfd2 Delete type=0 #3
+2020/12/06-21:19:07.797 37dfd2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

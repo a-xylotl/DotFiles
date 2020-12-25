@@ -1,0 +1,5 @@
+2020/12/01-09:06:14.307 13670 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/http_video.liberta.vip_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/01-09:07:29.731 1429d Level-0 table #5: started
+2020/12/01-09:07:29.821 1429d Level-0 table #5: 2777937 bytes OK
+2020/12/01-09:07:29.869 1429d Delete type=0 #3
+2020/12/01-09:07:29.871 1429d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2020/12/24-12:17:56.278 202e2b Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/24-12:17:56.279 202e2b Recovering log #15
+2020/12/24-12:17:56.280 202e2b Reusing old log /home/aaxyl/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/000015.log 
+2020/12/24-12:19:11.232 202e2b Level-0 table #20: started
+2020/12/24-12:19:11.281 202e2b Level-0 table #20: 20007 bytes OK
+2020/12/24-12:19:11.314 202e2b Delete type=0 #15
+2020/12/24-12:19:11.315 202e2b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/24-12:19:11.315 202e2b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x03\x01\x0d\x001\x006\x000\x008\x007\x007\x002\x007\x001\x009\x000\x002\x008' @ 5813 : 1
+2020/12/24-12:19:11.315 202e2b Compacting 1@1 + 1@2 files
+2020/12/24-12:19:11.356 202e2b Generated table #21@1: 35 keys, 1238 bytes
+2020/12/24-12:19:11.357 202e2b Compacted 1@1 + 1@2 files => 1238 bytes
+2020/12/24-12:19:11.388 202e2b compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/24-12:19:11.389 202e2b Delete type=2 #20
+2020/12/24-12:19:11.390 202e2b Delete type=2 #17
+2020/12/24-12:19:11.390 202e2b Manual compaction at level-1 from '\x00\x02\x01\x03\x01\x0d\x001\x006\x000\x008\x007\x007\x002\x007\x001\x009\x000\x002\x008' @ 5813 : 1 .. (end); will stop at (end)

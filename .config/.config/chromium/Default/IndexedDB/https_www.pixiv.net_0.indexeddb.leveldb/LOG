@@ -1,0 +1,15 @@
+2020/12/22-14:53:57.568 1fadd0 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_www.pixiv.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/22-14:53:57.568 1fadd0 Recovering log #11
+2020/12/22-14:53:57.568 1fadd0 Reusing old log /home/aaxyl/.config/chromium/Default/IndexedDB/https_www.pixiv.net_0.indexeddb.leveldb/000011.log 
+2020/12/22-14:58:15.842 1fa5e1 Level-0 table #16: started
+2020/12/22-14:58:15.967 1fa5e1 Level-0 table #16: 545412 bytes OK
+2020/12/22-14:58:16.005 1fa5e1 Delete type=0 #11
+2020/12/22-14:58:16.006 20f5c3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/22-14:58:16.006 20f5c3 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x02\x02\x01\x04\x00w\x00o\x00r\x00k' @ 1843 : 1
+2020/12/22-14:58:16.006 20f5c3 Compacting 1@1 + 1@2 files
+2020/12/22-14:58:16.058 20f5c3 Generated table #17@1: 134 keys, 138020 bytes
+2020/12/22-14:58:16.058 20f5c3 Compacted 1@1 + 1@2 files => 138020 bytes
+2020/12/22-14:58:16.104 20f5c3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/22-14:58:16.105 20f5c3 Delete type=2 #13
+2020/12/22-14:58:16.105 20f5c3 Delete type=2 #16
+2020/12/22-14:58:16.105 20f5c3 Manual compaction at level-1 from '\x00\x01\x02\x02\x01\x04\x00w\x00o\x00r\x00k' @ 1843 : 1 .. (end); will stop at (end)

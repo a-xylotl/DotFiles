@@ -1,0 +1,6 @@
+2020/12/23-14:28:26.038 f6391 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/chrome-extension_klbibkeccnjlkjkiokjodocebajanakg_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/23-14:28:26.039 f6391 Recovering log #83
+2020/12/23-14:28:26.049 f6391 Reusing old log /home/aaxyl/.config/chromium/Default/IndexedDB/chrome-extension_klbibkeccnjlkjkiokjodocebajanakg_0.indexeddb.leveldb/000083.log 
+2020/12/23-14:30:13.771 f6394 Level-0 table #88: started
+2020/12/23-14:30:13.900 f6394 Level-0 table #88: 2811506 bytes OK
+2020/12/23-14:30:13.939 f6394 Delete type=0 #83

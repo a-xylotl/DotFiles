@@ -1,0 +1,17 @@
+2020/12/23-14:28:24.723 f6362 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2020/12/23-14:28:24.724 f6362 Recovering log #2192
+2020/12/23-14:28:24.724 f6362 Reusing old log /home/aaxyl/.config/chromium/Default/Local Storage/leveldb/002192.log 
+2020/12/23-14:34:26.841 f6542 Level-0 table #2196: started
+2020/12/23-14:34:26.901 f6542 Level-0 table #2196: 23007 bytes OK
+2020/12/23-14:34:26.935 f6542 Delete type=0 #2192
+2020/12/23-14:34:26.936 f6395 Compacting 4@0 + 2@1 files
+2020/12/23-14:34:27.165 f6395 Generated table #2197@0: 815 keys, 2327891 bytes
+2020/12/23-14:34:27.273 f6395 Generated table #2198@0: 3836 keys, 1262804 bytes
+2020/12/23-14:34:27.273 f6395 Compacted 4@0 + 2@1 files => 3590695 bytes
+2020/12/23-14:34:27.314 f6395 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/12/23-14:34:27.315 f6395 Delete type=2 #2196
+2020/12/23-14:34:27.315 f6395 Delete type=2 #2189
+2020/12/23-14:34:27.315 f6395 Delete type=2 #2191
+2020/12/23-14:34:27.315 f6395 Delete type=2 #2186
+2020/12/23-14:34:27.315 f6395 Delete type=2 #2187
+2020/12/23-14:34:27.315 f6395 Delete type=2 #2193

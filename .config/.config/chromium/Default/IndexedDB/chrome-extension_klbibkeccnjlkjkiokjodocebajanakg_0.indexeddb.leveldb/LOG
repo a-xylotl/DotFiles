@@ -1,0 +1,54 @@
+2020/12/24-01:11:43.092 116e60 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/chrome-extension_klbibkeccnjlkjkiokjodocebajanakg_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/24-01:11:43.093 116e60 Recovering log #87
+2020/12/24-01:11:43.101 116e60 Reusing old log /home/aaxyl/.config/chromium/Default/IndexedDB/chrome-extension_klbibkeccnjlkjkiokjodocebajanakg_0.indexeddb.leveldb/000087.log 
+2020/12/24-01:11:43.429 116e24 Compacting 1@1 + 1@2 files
+2020/12/24-01:11:43.601 116e24 Generated table #90@1: 1948 keys, 635922 bytes
+2020/12/24-01:11:43.602 116e24 Compacted 1@1 + 1@2 files => 635922 bytes
+2020/12/24-01:11:43.653 116e24 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/24-01:11:43.653 116e24 Delete type=2 #88
+2020/12/24-01:11:43.653 116e24 Delete type=2 #85
+2020/12/24-01:33:58.397 13c590 Level-0 table #92: started
+2020/12/24-01:33:58.562 13c590 Level-0 table #92: 2754207 bytes OK
+2020/12/24-01:33:58.597 13c590 Delete type=0 #87
+2020/12/24-02:06:59.224 18d606 Compacting 1@1 + 1@2 files
+2020/12/24-02:06:59.336 18d606 Generated table #93@1: 1962 keys, 635492 bytes
+2020/12/24-02:06:59.336 18d606 Compacted 1@1 + 1@2 files => 635492 bytes
+2020/12/24-02:06:59.425 18d606 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/24-02:06:59.425 18d606 Delete type=2 #92
+2020/12/24-02:06:59.425 18d606 Delete type=2 #90
+2020/12/24-02:10:51.469 19c26a Level-0 table #95: started
+2020/12/24-02:10:51.594 19c26a Level-0 table #95: 2732168 bytes OK
+2020/12/24-02:10:51.634 19c26a Delete type=0 #91
+2020/12/24-12:24:18.511 21728d Compacting 1@1 + 1@2 files
+2020/12/24-12:24:18.638 21728d Generated table #96@1: 1968 keys, 635863 bytes
+2020/12/24-12:24:18.638 21728d Compacted 1@1 + 1@2 files => 635863 bytes
+2020/12/24-12:24:18.684 21728d compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/24-12:24:18.684 21728d Delete type=2 #95
+2020/12/24-12:24:18.684 21728d Delete type=2 #93
+2020/12/24-13:04:40.166 27466f Level-0 table #98: started
+2020/12/24-13:04:40.375 27466f Level-0 table #98: 2751144 bytes OK
+2020/12/24-13:04:40.536 27466f Delete type=0 #94
+2020/12/24-13:04:59.685 276eae Compacting 1@1 + 1@2 files
+2020/12/24-13:04:59.780 276eae Generated table #99@1: 1968 keys, 629637 bytes
+2020/12/24-13:04:59.780 276eae Compacted 1@1 + 1@2 files => 629637 bytes
+2020/12/24-13:04:59.841 276eae compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/24-13:04:59.842 276eae Delete type=2 #98
+2020/12/24-13:04:59.842 276eae Delete type=2 #96
+2020/12/25-13:07:59.796 327a7a Level-0 table #101: started
+2020/12/25-13:08:00.009 327a7a Level-0 table #101: 2690649 bytes OK
+2020/12/25-13:08:00.049 327a7a Delete type=0 #97
+2020/12/25-13:09:39.806 32643c Compacting 1@1 + 1@2 files
+2020/12/25-13:09:39.901 32643c Generated table #102@1: 2028 keys, 664308 bytes
+2020/12/25-13:09:39.901 32643c Compacted 1@1 + 1@2 files => 664308 bytes
+2020/12/25-13:09:39.963 32643c compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/25-14:15:30.149 3b91f1 Level-0 table #104: started
+2020/12/25-14:15:30.322 3b91f1 Level-0 table #104: 2661865 bytes OK
+2020/12/25-14:15:30.359 3b91f1 Delete type=0 #100
+2020/12/25-14:15:30.359 3b91f1 Delete type=2 #101
+2020/12/25-14:15:30.359 3b91f1 Delete type=2 #99
+2020/12/25-14:23:52.538 3b6414 Compacting 1@1 + 1@2 files
+2020/12/25-14:23:52.666 3b6414 Generated table #105@1: 2070 keys, 674899 bytes
+2020/12/25-14:23:52.666 3b6414 Compacted 1@1 + 1@2 files => 674899 bytes
+2020/12/25-14:23:52.707 3b6414 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/25-14:23:52.707 3b6414 Delete type=2 #104
+2020/12/25-14:23:52.707 3b6414 Delete type=2 #102

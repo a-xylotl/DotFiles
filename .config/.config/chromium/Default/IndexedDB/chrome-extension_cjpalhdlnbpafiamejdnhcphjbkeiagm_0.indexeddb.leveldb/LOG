@@ -1,0 +1,8 @@
+2020/12/24-01:11:43.165 116e60 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/24-01:11:43.165 116e60 Recovering log #106
+2020/12/24-01:11:43.165 116e60 Reusing old log /home/aaxyl/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/000106.log 
+2020/12/24-01:11:45.214 116e5e Level-0 table #110: started
+2020/12/24-01:11:45.215 116e5e Level-0 table #110: 0 bytes OK
+2020/12/24-01:11:45.274 116e5e Delete type=0 #106
+2020/12/24-01:11:45.274 116e5e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/24-01:11:45.274 116e5e Manual compaction at level-1 from (begin) .. (end); will stop at (end)
