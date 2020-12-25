@@ -1,0 +1,14 @@
+"cmus-remote --pause"
+	XF86AudioPlay
+
+"cmus-remote --seek -5"
+	XF86AudioPrev
+
+"cmus-remote --seek +5"
+	XF86AudioNext
+
+"cmus-remote --prev"
+	Control + XF86AudioPrev
+
+"cmus-remote --next"
+	Control + XF86AudioNext
