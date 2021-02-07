@@ -1,0 +1,29 @@
+[2021-01-16 14:05:15,240]ERROR:Error loading file /home/aaxyl/Music/Eurobeat/07. Mickey B. - a Neverending Night.flac
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/site-packages/puddlestuff/puddleobjects.py", line 701, in gettag
+    return audioinfo.Tag(f)
+  File "/usr/lib/python3.9/site-packages/puddlestuff/tagmodel.py", line 313, in ReplacementTag
+    return filetypes[extensions[match.groups()[0]][0]][1](filename)
+  File "/usr/lib/python3.9/site-packages/puddlestuff/tagmodel.py", line 157, in __init__
+    super(ModelTag, self).__init__(*args, **kwargs)
+  File "/usr/lib/python3.9/site-packages/puddlestuff/audioinfo/vorbis.py", line 76, in __init__
+    util.MockTag.__init__(self, filename)
+  File "/usr/lib/python3.9/site-packages/puddlestuff/audioinfo/util.py", line 738, in __init__
+    self.link(filename)
+  File "/usr/lib/python3.9/site-packages/puddlestuff/audioinfo/vorbis.py", line 172, in link
+    tags, audio = self.load(filename, base)
+  File "/usr/lib/python3.9/site-packages/puddlestuff/audioinfo/util.py", line 838, in load
+    audio = filetype(filename)
+  File "/usr/lib/python3.9/site-packages/mutagen/_file.py", line 48, in __init__
+    self.load(*args, **kwargs)
+  File "/usr/lib/python3.9/site-packages/mutagen/_util.py", line 185, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/lib/python3.9/site-packages/mutagen/_util.py", line 156, in wrapper
+    return func(self, h, *args, **kwargs)
+  File "/usr/lib/python3.9/site-packages/mutagen/flac.py", line 796, in load
+    self.__check_header(fileobj, filething.name)
+  File "/usr/lib/python3.9/site-packages/mutagen/flac.py", line 909, in __check_header
+    header = fileobj.read(4)
+  File "/usr/lib/python3.9/site-packages/mutagen/flac.py", line 69, in read
+    raise error("file said %d bytes, read %d bytes" % (
+mutagen.flac.error: file said 4 bytes, read 0 bytes

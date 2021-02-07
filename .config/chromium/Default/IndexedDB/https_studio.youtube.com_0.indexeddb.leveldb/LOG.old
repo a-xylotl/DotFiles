@@ -1,0 +1,15 @@
+2020/12/30-18:07:01.919 1c261a Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/30-18:07:01.919 1c261a Recovering log #7
+2020/12/30-18:07:01.919 1c261a Reusing old log /home/aaxyl/.config/chromium/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb/000007.log 
+2020/12/30-18:07:25.735 1eb6d1 Level-0 table #12: started
+2020/12/30-18:07:25.741 1eb6d1 Level-0 table #12: 562 bytes OK
+2020/12/30-18:07:25.742 1eb6d1 Delete type=0 #7
+2020/12/30-18:07:25.743 1eb6d1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/30-18:07:25.743 1eb6d1 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x16\x00y\x00t\x00-\x00i\x00d\x00b\x00-\x00t\x00e\x00s\x00t\x00-\x00d\x00o\x00-\x00n\x00o\x00t\x00-\x00u\x00s\x00e' @ 92 : 1
+2020/12/30-18:07:25.743 1eb6d1 Compacting 1@1 + 1@2 files
+2020/12/30-18:07:25.746 1eb6d1 Generated table #13@1: 18 keys, 531 bytes
+2020/12/30-18:07:25.746 1eb6d1 Compacted 1@1 + 1@2 files => 531 bytes
+2020/12/30-18:07:25.748 1eb6d1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/30-18:07:25.748 1eb6d1 Delete type=2 #9
+2020/12/30-18:07:25.748 1eb6d1 Delete type=2 #12
+2020/12/30-18:07:25.749 1eb6d1 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x16\x00y\x00t\x00-\x00i\x00d\x00b\x00-\x00t\x00e\x00s\x00t\x00-\x00d\x00o\x00-\x00n\x00o\x00t\x00-\x00u\x00s\x00e' @ 92 : 1 .. (end); will stop at (end)

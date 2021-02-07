@@ -1,0 +1,15 @@
+2020/12/07-21:47:38.669 399f35 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/07-21:47:38.669 399f35 Recovering log #4
+2020/12/07-21:47:38.669 399f35 Reusing old log /home/aaxyl/.config/chromium/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000004.log 
+2020/12/07-21:48:02.202 3a07d8 Level-0 table #8: started
+2020/12/07-21:48:02.258 3a07d8 Level-0 table #8: 114775 bytes OK
+2020/12/07-21:48:02.297 3a07d8 Delete type=0 #4
+2020/12/07-21:48:02.297 3a07d8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/07-21:48:02.297 3a07d8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0e\x00u\x00s\x00e\x00r\x00s\x00.\x00v\x00i\x00e\x00w\x00e\x00r\x00I\x00d' @ 104 : 1
+2020/12/07-21:48:02.298 3a07d8 Compacting 1@1 + 1@2 files
+2020/12/07-21:48:02.332 3a07d8 Generated table #9@1: 38 keys, 23064 bytes
+2020/12/07-21:48:02.333 3a07d8 Compacted 1@1 + 1@2 files => 23064 bytes
+2020/12/07-21:48:02.378 3a07d8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/07-21:48:02.378 3a07d8 Delete type=2 #5
+2020/12/07-21:48:02.378 3a07d8 Delete type=2 #8
+2020/12/07-21:48:02.379 3a07d8 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0e\x00u\x00s\x00e\x00r\x00s\x00.\x00v\x00i\x00e\x00w\x00e\x00r\x00I\x00d' @ 104 : 1 .. (end); will stop at (end)

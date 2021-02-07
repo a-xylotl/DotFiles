@@ -1,0 +1,8 @@
+2020/12/27-12:51:11.351 ec415 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_pages.ebay.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/27-12:51:11.351 ec415 Recovering log #23
+2020/12/27-12:51:11.352 ec415 Reusing old log /home/aaxyl/.config/chromium/Default/IndexedDB/https_pages.ebay.com_0.indexeddb.leveldb/000023.log 
+2020/12/27-12:51:21.623 ec414 Level-0 table #27: started
+2020/12/27-12:51:21.623 ec414 Level-0 table #27: 0 bytes OK
+2020/12/27-12:51:21.629 ec414 Delete type=0 #23
+2020/12/27-12:51:21.629 ec414 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/27-12:51:21.629 c00a6 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

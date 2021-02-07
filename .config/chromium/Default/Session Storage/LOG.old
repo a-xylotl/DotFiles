@@ -1,0 +1,21 @@
+2021/01/26-15:08:26.651 5 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/Session Storage/MANIFEST-000001
+2021/01/26-15:08:26.659 5 Recovering log #849
+2021/01/26-15:08:26.662 5 Reusing old log /home/aaxyl/.config/chromium/Default/Session Storage/000849.log 
+2021/01/26-17:30:45.027 2e Level-0 table #853: started
+2021/01/26-17:30:45.033 2e Level-0 table #853: 22261 bytes OK
+2021/01/26-17:30:45.037 2e Delete type=0 #849
+2021/01/27-22:11:28.449 54 Level-0 table #855: started
+2021/01/27-22:11:28.456 54 Level-0 table #855: 24452 bytes OK
+2021/01/27-22:11:28.461 54 Delete type=0 #852
+2021/01/27-22:11:28.463 57 Compacting 4@0 + 1@1 files
+2021/01/27-22:11:28.574 57 Generated table #856@0: 24433 keys, 731303 bytes
+2021/01/27-22:11:28.575 57 Compacted 4@0 + 1@1 files => 731303 bytes
+2021/01/27-22:11:28.579 57 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/01/27-22:11:28.582 57 Delete type=2 #853
+2021/01/27-22:11:28.582 57 Delete type=2 #846
+2021/01/27-22:11:28.583 57 Delete type=2 #850
+2021/01/27-22:11:28.583 57 Delete type=2 #855
+2021/01/27-22:11:28.583 57 Delete type=2 #848
+2021/01/31-12:07:03.490 c6 Level-0 table #858: started
+2021/01/31-12:07:03.563 c6 Level-0 table #858: 23243 bytes OK
+2021/01/31-12:07:03.573 c6 Delete type=0 #854

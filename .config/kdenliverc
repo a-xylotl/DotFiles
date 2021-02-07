@@ -1,0 +1,86 @@
+[KFileDialog Settings]
+Recent Files[$e]=20201230-0225_demovid1.mp4,file:///mnt/2ndstorage/Videos/Projects/demovideo1/censorframe1.png,file:///mnt/2ndstorage/Videos/Recordings/20201230-0225_demovid1.mp4
+Recent URLs[$e]=file:///mnt/2ndstorage/Videos/Recordings/,file:///mnt/2ndstorage/Videos/Projects/demovideo1/
+detailViewIconSize=16
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAgAAAAEAAAH7AAABzfwCAAAAAfwAAAI8AAABzQAAAQcBAAAi+gAAAAECAAAAAvsAAAAKAG0AaQB4AGUAcgEAAAHwAAACCwAAAOMA///++wAAABgAZQBmAGYAZQBjAHQAXwBzAHQAYQBjAGsBAAAAAP////8AAAB4AP///gAAAAIAAAeAAAAB5fwBAAAACfsAAAAUAHMAYwByAGUAZQBuAGcAcgBhAGIAAAAAAP////8AAABIAP////sAAAAaAGEAdQBkAGkAbwBzAHAAZQBjAHQAcgB1AG0AAAAAAP////8AAABmAP////wAAAAAAAACQAAAAIcA////+gAAAAABAAAABfsAAAAWAHAAcgBvAGoAZQBjAHQAXwBiAGkAbgEAAAAA/////wAAAF4A////+wAAAB4AdAByAGEAbgBzAGkAdABpAG8AbgBfAGwAaQBzAHQBAAAAAP////8AAAAAAP////sAAAAWAGUAZgBmAGUAYwB0AF8AbABpAHMAdAEAAAAA/////wAAAAAA////+wAAAB4AYwBsAGkAcABfAHAAcgBvAHAAZQByAHQAaQBlAHMAAAAAAP////8AAABcAP////sAAAAYAHUAbgBkAG8AXwBoAGkAcwB0AG8AcgB5AQAAAAD/////AAAAXgD////8AAACRgAAAqQAAAFAAP////oAAAAAAgAAAAP7AAAAGABjAGwAaQBwAF8AbQBvAG4AaQB0AG8AcgEAAABEAAABzQAAAMcA///++wAAABIAUwB1AGIAdABpAHQAbABlAHMAAAAAAP////8AAAElAP////sAAAAOAGwAaQBiAHIAYQByAHkBAAAAAP////8AAACZAP///vwAAATwAAACkAAAAUAA////+gAAAAACAAAAAvsAAAAeAHAAcgBvAGoAZQBjAHQAXwBtAG8AbgBpAHQAbwByAQAAAL8AAAEsAAAAxwD///77AAAAGABuAG8AdABlAHMAXwB3AGkAZABnAGUAdAEAAAAA/////wAAAIoA///++wAAABYAdgBlAGMAdABvAHIAcwBjAG8AcABlAAAAAAD/////AAABNwD////7AAAAEAB3AGEAdgBlAGYAbwByAG0AAAAAAP////8AAACmAP////sAAAAUAHIAZwBiAF8AcABhAHIAYQBkAGUAAAAAAP////8AAACeAP////sAAAASAGgAaQBzAHQAbwBnAHIAYQBtAAAAAAD/////AAABUQD///8AAAV/AAABzQAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABgAZQB4AHQAcgBhAFQAbwBvAGwAQgBhAHIBAAACgP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+eDP1 Height 1080=1061
+eDP1 Width 1920=1920
+eDP1 XPosition=0
+eDP1 YPosition=19
+
+[Recent Dirs]
+KdenliveClipFolder[$e]=/mnt/2ndstorage/Videos/Projects/demovideo1/,/mnt/2ndstorage/Videos/Recordings/,$HOME/Videos
+KdenliveFramesFolder[$e]=/mnt/2ndstorage/Videos/Projects/demovideo1/,$HOME/Documents
+
+[Scope_Histogram]
+autoRefresh=true
+bEnabled=true
+gEnabled=true
+logScale=false
+rEnabled=true
+realtime=false
+rec601=false
+sEnabled=false
+yEnabled=true
+
+[Scope_RGB Parade]
+autoRefresh=true
+axis=false
+gradref=false
+paintmode=0
+realtime=false
+
+[Scope_Vectorscope]
+75PBox=false
+autoRefresh=true
+axis=false
+backgroundmode=0
+colorspace_ypbpr=false
+gain=1
+iqlines=false
+paintmode=0
+realtime=false
+
+[Scope_Waveform]
+autoRefresh=true
+paintmode=0
+realtime=false
+rec601=false
+
+[UiSettings]
+ColorSchemePath=
+
+[bin]
+treeviewheaders=AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAI/gAAAAcAAAAHAAAAMAAAAAYAAAAxAAAABQAAAFwAAAAEAAAAOAAAAAMAAAA/AAAAAgAAAHIAAAABAAAAPwAAAQEAAAAIAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAAIAAABAQAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAD6AAAAAA/
+
+[capture]
+decklink_extension=mov
+decklink_parameters=vcodec=dnxhd vb=145000k acodec=pcm_s16le threads=%threads
+grab_extension=mov
+grab_parameters=-crf 25 -vcodec libx264 -preset veryfast -threads 0
+v4l_extension=mpg
+v4l_parameters=qscale=4 ab=192k vcodec=mpeg2video acodec=mp2 threads=%threads
+
+[env]
+defaultprojectfolder[$e]=$HOME/Videos
+ffmpegpath[$e]=/usr/bin/ffmpeg
+ffplaypath[$e]=/usr/bin/ffplay
+ffprobepath[$e]=/usr/bin/ffprobe
+mltpath[$e]=/usr/share/mlt/profiles
+rendererpath[$e]=/usr/bin/melt
+
+[timeline]
+trackheight=69
+
+[unmanaged]
+default_profile=atsc_1080p_25
+force_breeze=true
+monitor_audio=false
+producerslist=framebuffer,avformat,avformat-novalidate,slowmotion,vorbis,blipflash,count,qimage,qtext,kdenlivetitle,pgm,frei0r.ising0r,frei0r.lissajous0r,frei0r.nois0r,frei0r.onecol0r,frei0r.partik0l,frei0r.plasma,frei0r.test_pat_B,frei0r.test_pat_C,frei0r.test_pat_G,frei0r.test_pat_I,frei0r.test_pat_L,frei0r.test_pat_R,decklink,pango,pixbuf,abnormal,color,colour,consumer,hold,loader,melt,melt_file,noise,timewarp,tone,xml,xml-string,xml-nogl
+widgetstyle=chameleon
+
+[version]
+version=20.12.0

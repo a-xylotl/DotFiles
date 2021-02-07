@@ -1,0 +1,18 @@
+2021/01/31-13:02:29.296 16167 Reusing MANIFEST /home/aaxyl/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/01/31-13:02:29.300 16167 Recovering log #80
+2021/01/31-13:02:29.302 16167 Reusing old log /home/aaxyl/.config/discord/Local Storage/leveldb/000080.log 
+2021/01/31-23:14:21.209 1ff052 Level-0 table #84: started
+2021/01/31-23:14:21.212 1ff052 Level-0 table #84: 18594 bytes OK
+2021/01/31-23:14:21.215 1ff052 Delete type=0 #80
+2021/02/03-09:08:34.189 1ff052 Level-0 table #86: started
+2021/02/03-09:08:34.197 1ff052 Level-0 table #86: 14892 bytes OK
+2021/02/03-09:08:34.200 1ff052 Delete type=0 #83
+2021/02/03-09:08:34.200 1ff052 Compacting 4@0 + 1@1 files
+2021/02/03-09:08:34.207 1ff052 Generated table #87@0: 34 keys, 8758 bytes
+2021/02/03-09:08:34.207 1ff052 Compacted 4@0 + 1@1 files => 8758 bytes
+2021/02/03-09:08:34.210 1ff052 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/02/03-09:08:34.210 1ff052 Delete type=2 #76
+2021/02/03-09:08:34.210 1ff052 Delete type=2 #78
+2021/02/03-09:08:34.210 1ff052 Delete type=2 #84
+2021/02/03-09:08:34.210 1ff052 Delete type=2 #81
+2021/02/03-09:08:34.210 1ff052 Delete type=2 #86

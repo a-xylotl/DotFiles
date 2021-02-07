@@ -1,0 +1,15 @@
+2021/02/04-22:00:38.396 335091 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/04-22:00:38.396 335091 Recovering log #145
+2021/02/04-22:00:38.396 335091 Reusing old log /home/aaxyl/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000145.log 
+2021/02/05-00:34:57.890 1de6f7 Level-0 table #150: started
+2021/02/05-00:34:57.900 1de6f7 Level-0 table #150: 488145 bytes OK
+2021/02/05-00:34:57.902 1de6f7 Delete type=0 #145
+2021/02/05-00:34:57.902 1de6f7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/02/05-00:34:57.902 1e7e18 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 51923 : 1
+2021/02/05-00:34:57.902 1e7e18 Compacting 1@1 + 1@2 files
+2021/02/05-00:34:57.907 1e7e18 Generated table #151@1: 83 keys, 74822 bytes
+2021/02/05-00:34:57.907 1e7e18 Compacted 1@1 + 1@2 files => 74822 bytes
+2021/02/05-00:34:57.909 1e7e18 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/05-00:34:57.909 1e7e18 Delete type=2 #150
+2021/02/05-00:34:57.910 1e7e18 Delete type=2 #147
+2021/02/05-00:34:57.910 1e7e18 Manual compaction at level-1 from '\x00\x08\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 51923 : 1 .. (end); will stop at (end)

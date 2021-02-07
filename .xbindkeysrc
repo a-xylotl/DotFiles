@@ -1,14 +1,50 @@
 "cmus-remote --pause"
-	XF86AudioPlay
+	Control+Mod4 + Down
+
+"cmus-remote --stop"
+	Control+Mod4 + Up
+
+"cm_cs.sh"
+	Mod4 + Down
+
+"cm_cs2.sh"
+	Mod4 + Up
 
 "cmus-remote --seek -5"
-	XF86AudioPrev
+	Mod4 + Left
 
 "cmus-remote --seek +5"
-	XF86AudioNext
+	Mod4 + Right
 
 "cmus-remote --prev"
-	Control + XF86AudioPrev
+	Control+Mod4 + Left
 
 "cmus-remote --next"
-	Control + XF86AudioNext
+	Control+Mod4 + Right
+
+"scrotsel.sh"
+	Control+Mod4 + Print
+
+"scrotwhole.sh"
+	Mod4 + Print
+
+"recordscreen.sh -n"
+	Mod4 + r
+
+"recordscreen.sh"
+	Control+Mod4 + r
+
+"stoprecordscreen.sh"
+	Control+Mod4 + z
+
+"xbacklight -dec 10"
+	XF86MonBrightnessDown
+
+"xbacklight -inc 10"
+	XF86MonBrightnessUp
+
+"sudo powersaving.sh"
+	Mod4 + XF86MonBrightnessDown
+
+"sudo performance.sh"
+	Mod4 + XF86MonBrightnessUp

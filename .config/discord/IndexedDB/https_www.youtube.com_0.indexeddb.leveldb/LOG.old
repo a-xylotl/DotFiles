@@ -1,0 +1,15 @@
+2020/12/22-11:51:25.056 1473d Reusing MANIFEST /home/aaxyl/.config/discord/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/22-11:51:25.057 1473d Recovering log #27
+2020/12/22-11:51:25.057 1473d Reusing old log /home/aaxyl/.config/discord/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000027.log 
+2020/12/22-12:21:11.347 55a50 Level-0 table #32: started
+2020/12/22-12:21:11.389 55a50 Level-0 table #32: 734 bytes OK
+2020/12/22-12:21:11.429 55a50 Delete type=0 #27
+2020/12/22-12:21:11.429 55a50 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/22-12:21:11.429 55a50 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x16\x00y\x00t\x00-\x00i\x00d\x00b\x00-\x00t\x00e\x00s\x00t\x00-\x00d\x00o\x00-\x00n\x00o\x00t\x00-\x00u\x00s\x00e' @ 112 : 1
+2020/12/22-12:21:11.429 55a50 Compacting 1@1 + 1@2 files
+2020/12/22-12:21:11.482 55a50 Generated table #33@1: 21 keys, 598 bytes
+2020/12/22-12:21:11.482 55a50 Compacted 1@1 + 1@2 files => 598 bytes
+2020/12/22-12:21:11.519 55a50 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/22-12:21:11.519 55a50 Delete type=2 #29
+2020/12/22-12:21:11.519 55a50 Delete type=2 #32
+2020/12/22-12:21:11.520 55a50 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x16\x00y\x00t\x00-\x00i\x00d\x00b\x00-\x00t\x00e\x00s\x00t\x00-\x00d\x00o\x00-\x00n\x00o\x00t\x00-\x00u\x00s\x00e' @ 112 : 1 .. (end); will stop at (end)

@@ -1,0 +1,32 @@
+2021/01/20-22:17:38.874 d65a9 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_learningnetwork.cisco.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/20-22:17:40.070 b9387 Level-0 table #5: started
+2021/01/20-22:17:40.075 b9387 Level-0 table #5: 37404 bytes OK
+2021/01/20-22:17:40.078 b9387 Delete type=0 #3
+2021/01/20-22:17:40.078 b9387 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/01/20-22:17:41.480 10cd17 Level-0 table #7: started
+2021/01/20-22:17:41.509 10cd17 Level-0 table #7: 1384062 bytes OK
+2021/01/20-22:17:41.514 10cd17 Delete type=0 #4
+2021/01/20-22:18:59.453 10ef16 Compacting 1@1 + 1@2 files
+2021/01/20-22:18:59.453 10ef16 Level-0 table #10: started
+2021/01/20-22:18:59.464 10ef16 Level-0 table #10: 218446 bytes OK
+2021/01/20-22:18:59.467 10ef16 Delete type=0 #6
+2021/01/20-22:18:59.505 10ef16 Generated table #8@1: 3586 keys, 1355152 bytes
+2021/01/20-22:18:59.505 10ef16 Compacted 1@1 + 1@2 files => 1355152 bytes
+2021/01/20-22:18:59.509 10ef16 compacted to: files[ 1 0 1 0 0 0 0 ]
+2021/01/20-22:18:59.509 10ef16 Delete type=2 #7
+2021/01/20-22:18:59.509 10ef16 Delete type=2 #5
+2021/01/20-22:18:59.510 b9387 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x07\x01\x1f\x03\x00\x80a\xc4\xb5\xacwB\x00\x01\x0d\x00c\x00r\x00y\x00p\x00t\x00o\x00a\x00d\x00a\x00p\x00t\x00e\x00r' @ 7705 : 0
+2021/01/20-22:18:59.510 b9387 Compacting 1@0 + 0@1 files
+2021/01/20-22:18:59.519 b9387 Generated table #11@0: 2498 keys, 153168 bytes
+2021/01/20-22:18:59.519 b9387 Compacted 1@0 + 0@1 files => 153168 bytes
+2021/01/20-22:18:59.522 b9387 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/01/20-22:18:59.522 b9387 Delete type=2 #10
+2021/01/20-22:18:59.523 b9387 Manual compaction at level-0 from '\x00\x07\x01\x1f\x03\x00\x80a\xc4\xb5\xacwB\x00\x01\x0d\x00c\x00r\x00y\x00p\x00t\x00o\x00a\x00d\x00a\x00p\x00t\x00e\x00r' @ 7705 : 0 .. (end); will stop at (end)
+2021/01/20-22:18:59.523 b9387 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x07\x01\x1f\x03\x00\x80a\xc4\xb5\xacwB\x00\x01\x0d\x00c\x00r\x00y\x00p\x00t\x00o\x00a\x00d\x00a\x00p\x00t\x00e\x00r' @ 7705 : 0
+2021/01/20-22:18:59.523 b9387 Compacting 1@1 + 1@2 files
+2021/01/20-22:18:59.564 b9387 Generated table #12@1: 1835 keys, 1332970 bytes
+2021/01/20-22:18:59.564 b9387 Compacted 1@1 + 1@2 files => 1332970 bytes
+2021/01/20-22:18:59.567 b9387 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/20-22:18:59.567 b9387 Delete type=2 #8
+2021/01/20-22:18:59.567 b9387 Delete type=2 #11
+2021/01/20-22:18:59.568 b9387 Manual compaction at level-1 from '\x00\x07\x01\x1f\x03\x00\x80a\xc4\xb5\xacwB\x00\x01\x0d\x00c\x00r\x00y\x00p\x00t\x00o\x00a\x00d\x00a\x00p\x00t\x00e\x00r' @ 7705 : 0 .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2021/02/04-22:21:25.904 395f63 Reusing MANIFEST /home/aaxyl/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/02/04-22:21:25.906 395f63 Recovering log #85
+2021/02/04-22:21:25.906 395f63 Reusing old log /home/aaxyl/.config/discord/Local Storage/leveldb/000085.log 
+2021/02/05-23:01:02.845 3b7c7b Level-0 table #90: started
+2021/02/05-23:01:02.851 3b7c7b Level-0 table #90: 20203 bytes OK
+2021/02/05-23:01:02.854 3b7c7b Delete type=0 #85

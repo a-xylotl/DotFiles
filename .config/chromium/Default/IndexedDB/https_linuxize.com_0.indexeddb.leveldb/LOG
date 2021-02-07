@@ -1,0 +1,5 @@
+2020/12/06-17:46:45.827 225d41 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/06-17:51:51.758 2347e8 Level-0 table #5: started
+2020/12/06-17:51:51.807 2347e8 Level-0 table #5: 8704 bytes OK
+2020/12/06-17:51:51.848 2347e8 Delete type=0 #3
+2020/12/06-17:51:51.848 2347e8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

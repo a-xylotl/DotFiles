@@ -1,0 +1,5 @@
+2020/12/27-12:47:07.401 c00a6 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_www.minecraft.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/27-12:47:15.403 ec415 Level-0 table #5: started
+2020/12/27-12:47:15.408 ec415 Level-0 table #5: 2854 bytes OK
+2020/12/27-12:47:15.412 ec415 Delete type=0 #3
+2020/12/27-12:47:15.412 ec415 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+2021/01/15-23:21:19.223 35a9d9 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_helpandsupport.auspost.com.au_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/15-23:21:33.065 35a6ca Level-0 table #5: started
+2021/01/15-23:21:33.075 35a6ca Level-0 table #5: 481018 bytes OK
+2021/01/15-23:21:33.078 35a6ca Delete type=0 #3
+2021/01/15-23:21:33.078 35a6ca Manual compaction at level-0 from (begin) .. (end); will stop at (end)

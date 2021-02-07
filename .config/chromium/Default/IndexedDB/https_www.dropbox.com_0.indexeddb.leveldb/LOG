@@ -1,0 +1,5 @@
+2021/01/12-14:09:50.783 2215da Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_www.dropbox.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/12-14:11:17.739 2215da Level-0 table #5: started
+2021/01/12-14:11:17.752 2215da Level-0 table #5: 168523 bytes OK
+2021/01/12-14:11:17.755 2215da Delete type=0 #3
+2021/01/12-14:11:17.756 2215da Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+//mothership.sg/2021/01/cryogenics-china-man-freeze-wife/?fbclid=IwAR1GFiUL4sVgzpCJ5hAAfgArCLpEa8_pB-a1ST3P
+add Music
+q
+colorscheme default
+colorscheme zenburn
+colorscheme xterm-white
+colorscheme solarized-dark
+colorscheme jellybeans
+colorscheme gruvbox
+colorscheme cyan
+colorscheme green-mono-88
+colorscheme dracula
+set status_display_program=/usr/bin/cm_n.sh
+add
+add Music/

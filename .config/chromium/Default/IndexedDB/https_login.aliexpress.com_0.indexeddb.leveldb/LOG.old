@@ -1,0 +1,15 @@
+2021/01/25-13:03:03.344 261c58 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_login.aliexpress.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/25-13:03:03.345 261c58 Recovering log #19
+2021/01/25-13:03:03.345 261c58 Reusing old log /home/aaxyl/.config/chromium/Default/IndexedDB/https_login.aliexpress.com_0.indexeddb.leveldb/000019.log 
+2021/01/25-13:03:55.813 321cbc Level-0 table #24: started
+2021/01/25-13:03:55.820 321cbc Level-0 table #24: 23974 bytes OK
+2021/01/25-13:03:55.824 321cbc Delete type=0 #19
+2021/01/25-13:03:55.824 321cbc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/25-13:03:55.824 321cbc Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\xf0\xd0\x7ftswB\x00\x01:\x00a\x00s\x00s\x00e\x00t\x00s\x00-\x00c\x00a\x00c\x00h\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00a\x00s\x00s\x00e\x00t\x00s\x00.\x00a\x00l\x00i\x00c\x00d\x00n\x00.\x00c\x00o\x00m\x00/\x00g\x00/\x00A\x00W\x00S\x00C\x00/\x00A\x00W\x00S\x00C\x00/\x00a\x00w\x00s\x00c\x00.\x00j\x00s' @ 2133 : 1
+2021/01/25-13:03:55.824 321cbc Compacting 1@1 + 1@2 files
+2021/01/25-13:03:55.828 321cbc Generated table #25@1: 108 keys, 11232 bytes
+2021/01/25-13:03:55.828 321cbc Compacted 1@1 + 1@2 files => 11232 bytes
+2021/01/25-13:03:55.829 321cbc compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/25-13:03:55.830 321cbc Delete type=2 #24
+2021/01/25-13:03:55.830 321cbc Delete type=2 #21
+2021/01/25-13:03:55.830 321cbc Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\xf0\xd0\x7ftswB\x00\x01:\x00a\x00s\x00s\x00e\x00t\x00s\x00-\x00c\x00a\x00c\x00h\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00a\x00s\x00s\x00e\x00t\x00s\x00.\x00a\x00l\x00i\x00c\x00d\x00n\x00.\x00c\x00o\x00m\x00/\x00g\x00/\x00A\x00W\x00S\x00C\x00/\x00A\x00W\x00S\x00C\x00/\x00a\x00w\x00s\x00c\x00.\x00j\x00s' @ 2133 : 1 .. (end); will stop at (end)

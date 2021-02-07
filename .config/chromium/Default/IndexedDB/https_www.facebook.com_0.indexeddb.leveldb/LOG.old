@@ -1,0 +1,15 @@
+2021/01/01-19:07:40.612 264422 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/01-19:07:40.612 264422 Recovering log #4
+2021/01/01-19:07:40.612 264422 Reusing old log /home/aaxyl/.config/chromium/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000004.log 
+2021/01/01-19:08:12.660 2877e4 Level-0 table #8: started
+2021/01/01-19:08:12.664 2877e4 Level-0 table #8: 667 bytes OK
+2021/01/01-19:08:12.665 2877e4 Delete type=0 #4
+2021/01/01-19:08:12.665 2877e4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/01-19:08:12.666 2877e4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0a\x00s\x00w\x00_\x00v\x00e\x00r\x00s\x00i\x00o\x00n' @ 74 : 1
+2021/01/01-19:08:12.666 2877e4 Compacting 1@1 + 1@2 files
+2021/01/01-19:08:12.670 2877e4 Generated table #9@1: 22 keys, 658 bytes
+2021/01/01-19:08:12.670 2877e4 Compacted 1@1 + 1@2 files => 658 bytes
+2021/01/01-19:08:12.674 2877e4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/01-19:08:12.674 2877e4 Delete type=2 #8
+2021/01/01-19:08:12.674 2877e4 Delete type=2 #5
+2021/01/01-19:08:12.674 2877e4 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0a\x00s\x00w\x00_\x00v\x00e\x00r\x00s\x00i\x00o\x00n' @ 74 : 1 .. (end); will stop at (end)

@@ -1,0 +1,86 @@
+01:24:03 AM.174: CPU Name: Intel(R) Core(TM) i5-2540M CPU @ 2.60GHz
+01:24:03 AM.174: CPU Speed: 2651.863MHz
+01:24:03 AM.175: Physical Cores: 2, Logical Cores: 4
+01:24:03 AM.175: Physical Memory: 3809MB Total, 3102MB Free
+01:24:03 AM.175: Kernel Version: Linux 5.9.11-arch2-1
+01:24:03 AM.175: Distribution: "Arch Linux" Unknown
+01:24:03 AM.175: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.10
+01:24:03 AM.192: Portable mode: false
+01:24:05 AM.244: OBS 26.0.2-3 (linux)
+01:24:05 AM.245: ---------------------------------
+01:24:05 AM.245: ---------------------------------
+01:24:05 AM.245: audio settings reset:
+01:24:05 AM.245: 	samples per sec: 48000
+01:24:05 AM.245: 	speakers:        2
+01:24:05 AM.292: ---------------------------------
+01:24:05 AM.292: Initializing OpenGL...
+01:24:05 AM.334: Loading up OpenGL on adapter Intel Open Source Technology Center Mesa DRI Intel(R) HD Graphics 3000 (SNB GT2)
+01:24:05 AM.378: OpenGL loaded successfully, version 3.3 (Core Profile) Mesa 20.2.3, shading language 3.30
+01:24:06 AM.931: ---------------------------------
+01:24:06 AM.931: video settings reset:
+01:24:06 AM.931: 	base resolution:   1366x768
+01:24:06 AM.931: 	output resolution: 1280x720
+01:24:06 AM.931: 	downscale filter:  Bicubic
+01:24:06 AM.931: 	fps:               60/1
+01:24:06 AM.931: 	format:            NV12
+01:24:06 AM.931: 	YUV mode:          709/Partial
+01:24:06 AM.931: NV12 texture support not available
+01:24:06 AM.972: Audio monitoring device:
+01:24:06 AM.972: 	name: Default
+01:24:06 AM.972: 	id: default
+01:24:06 AM.973: ---------------------------------
+01:24:07 AM.053: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+01:24:17 AM.736: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+01:24:17 AM.736: No blackmagic support
+01:24:26 AM.796: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+01:24:26 AM.796: 
+01:24:26 AM.796: FFMPEG VAAPI supported
+01:24:27 AM.512: os_dlopen(/usr//lib/obs-plugins/obs-libfdk.so->/usr//lib/obs-plugins/obs-libfdk.so): libfdk-aac.so.2: cannot open shared object file: No such file or directory
+01:24:27 AM.512: 
+01:24:27 AM.513: Module '/usr//lib/obs-plugins/obs-libfdk.so' not loaded
+01:24:30 AM.213: [rtmp-services plugin] Remote update of URL "https://obsproject.com/obs2_update/rtmp-services/package.json" failed: Could not resolve host: obsproject.com
+01:24:30 AM.618: os_dlopen(libvlc.so.5->libvlc.so.5): libvlc.so.5: cannot open shared object file: No such file or directory
+01:24:30 AM.618: 
+01:24:30 AM.618: Couldn't find VLC installation, VLC video source disabled
+01:24:30 AM.618: ---------------------------------
+01:24:30 AM.618:   Loaded Modules:
+01:24:30 AM.618:     vlc-video.so
+01:24:30 AM.619:     text-freetype2.so
+01:24:30 AM.619:     rtmp-services.so
+01:24:30 AM.619:     obs-x264.so
+01:24:30 AM.619:     obs-transitions.so
+01:24:30 AM.619:     obs-outputs.so
+01:24:30 AM.619:     obs-filters.so
+01:24:30 AM.619:     obs-ffmpeg.so
+01:24:30 AM.619:     linux-v4l2.so
+01:24:30 AM.619:     linux-pulseaudio.so
+01:24:30 AM.619:     linux-jack.so
+01:24:30 AM.619:     linux-decklink.so
+01:24:30 AM.619:     linux-capture.so
+01:24:30 AM.619:     linux-alsa.so
+01:24:30 AM.619:     image-source.so
+01:24:30 AM.619:     frontend-tools.so
+01:24:30 AM.619:     decklink-ouput-ui.so
+01:24:30 AM.619: ---------------------------------
+01:24:30 AM.721: ==== Startup complete ===============================================
+01:24:31 AM.283: All scene data cleared
+01:24:31 AM.283: ------------------------------------------------
+01:24:48 AM.952: pulse-input: Server name: 'pulseaudio 14.0'
+01:24:48 AM.952: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+01:24:48 AM.953: pulse-input: Started recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor'
+01:24:48 AM.953: [Loaded global audio device]: 'Desktop Audio'
+01:24:48 AM.953: pulse-input: Server name: 'pulseaudio 14.0'
+01:24:48 AM.954: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+01:24:48 AM.954: pulse-input: Started recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo'
+01:24:48 AM.954: [Loaded global audio device]: 'Mic/Aux'
+01:24:48 AM.955: xshm-input: Geometry 1366x768 @ 0,0
+01:24:48 AM.960: Switched to scene 'Scene'
+01:24:48 AM.960: ------------------------------------------------
+01:24:48 AM.960: Loaded scenes:
+01:24:48 AM.960: - scene 'Scene':
+01:24:49 AM.256:     - source: 'Screen Capture (XSHM)' (xshm_input)
+01:24:49 AM.256: ------------------------------------------------
+01:24:49 AM.541: adding 85 milliseconds of audio buffering, total audio buffering is now 85 milliseconds (source: Mic/Aux)
+01:24:49 AM.541: 
+02:33:45 PM.849: adding 256 milliseconds of audio buffering, total audio buffering is now 341 milliseconds (source: Desktop Audio)
+02:33:45 PM.849: 

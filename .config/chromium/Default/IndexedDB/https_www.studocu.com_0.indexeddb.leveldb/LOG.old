@@ -1,0 +1,5 @@
+2021/01/23-00:39:58.602 24bc36 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_www.studocu.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/23-00:40:38.650 24bc36 Level-0 table #5: started
+2021/01/23-00:40:38.654 24bc36 Level-0 table #5: 37569 bytes OK
+2021/01/23-00:40:38.655 24bc36 Delete type=0 #3
+2021/01/23-00:40:38.655 24bc36 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

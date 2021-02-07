@@ -1,0 +1,38 @@
+
+
+-------session starts-------
+
+[2-7 2:1:17.453] INFO: MediaGallery: name=/home/aaxyl/Music, galleryId=1, isMediaDevice=false, deviceId=undefined
+[2-7 2:1:17.455] INFO: MediaGallery: name=/home/aaxyl/Pictures, galleryId=2, isMediaDevice=false, deviceId=undefined
+[2-7 2:1:17.455] INFO: MediaGallery: name=/home/aaxyl/Videos, galleryId=3, isMediaDevice=false, deviceId=undefined
+[2-7 2:1:17.456] INFO: Starts a quick scan on /home/aaxyl/Music
+[2-7 2:1:17.457] INFO: Iterating over dir / from source /home/aaxyl/Music
+[2-7 2:1:17.457] INFO: Starts a quick scan on /home/aaxyl/Pictures
+[2-7 2:1:17.458] INFO: Iterating over dir / from source /home/aaxyl/Pictures
+[2-7 2:1:17.458] INFO: Starts a quick scan on /home/aaxyl/Videos
+[2-7 2:1:17.458] INFO: Iterating over dir / from source /home/aaxyl/Videos
+[2-7 2:1:17.459] INFO: Starting periodic scan.
+[2-7 2:1:17.460] INFO: Iterating over dir /MoosicTBT from source /home/aaxyl/Music
+[2-7 2:1:17.461] INFO: Iterating over dir /Background from source /home/aaxyl/Pictures
+[2-7 2:1:17.461] INFO: Iterating over dir /Raws from source /home/aaxyl/Videos
+[2-7 2:1:17.469] INFO: /home/aaxyl/Videos does not contain music file
+[2-7 2:1:17.470] INFO: Got the drag_and_drop directory
+[2-7 2:1:17.474] INFO: /home/aaxyl/Music contains music file
+[2-7 2:1:17.474] INFO: Iterating over dir /Memes from source /home/aaxyl/Pictures
+[2-7 2:1:17.481] INFO: Iterating over dir /Notes from source /home/aaxyl/Pictures
+[2-7 2:1:17.483] INFO: Iterating over dir /Notes/Networking from source /home/aaxyl/Pictures
+[2-7 2:1:17.485] INFO: Iterating over dir /Sauce from source /home/aaxyl/Pictures
+[2-7 2:1:17.485] INFO: Iterating over dir /Sauce/MajentaRose_SuccubusTGD from source /home/aaxyl/Pictures
+[2-7 2:1:17.488] INFO: Iterating over dir /Projects from source /home/aaxyl/Pictures
+[2-7 2:1:17.488] INFO: lsUserAddedMusicSourceIds=null
+[2-7 2:1:17.488] INFO: lsLastTrackFailureLoggingTime=null
+[2-7 2:1:17.489] INFO: lsSyncMusicEnabled=null
+[2-7 2:1:17.489] INFO: lsAppActivated=false
+[2-7 2:1:17.490] INFO: Iterating over dir /Screenshots from source /home/aaxyl/Pictures
+[2-7 2:1:17.494] INFO: /home/aaxyl/Pictures does not contain music file
+[2-7 2:1:17.496] INFO: lsUserSelectedDownloadDirId=null
+[2-7 2:1:17.501] INFO: lsDefaultDownloadLocationId=null
+[2-7 2:1:17.503] INFO: Setting is already: lsAlwaysUseDefaultDownloadLocation = false
+[2-7 2:1:17.505] INFO: Setting is already: lsDefaultDownloadLocationId = null
+[2-7 2:1:19.90] INFO: Fetched user settings from server.
+[2-7 2:1:19.93] INFO: chromeapp:O ready

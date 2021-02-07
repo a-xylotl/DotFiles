@@ -1,0 +1,28 @@
+2021/01/20-17:59:19.846 30a9be Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_customer.cradlepoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/20-17:59:26.010 302efa Level-0 table #5: started
+2021/01/20-17:59:26.044 302efa Level-0 table #5: 1454579 bytes OK
+2021/01/20-17:59:26.054 302efa Delete type=0 #3
+2021/01/20-17:59:26.068 31892e Level-0 table #7: started
+2021/01/20-17:59:26.081 31892e Level-0 table #7: 409643 bytes OK
+2021/01/20-17:59:26.085 31892e Delete type=0 #4
+2021/01/20-17:59:26.085 31892e Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/01/20-17:59:26.085 3176b8 Manual compaction at level-1 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x01\x1f\x03\x00\xf0\xad\xfd\xa6\xacwB\x00\x01\x0d\x00c\x00r\x00y\x00p\x00t\x00o\x00a\x00d\x00a\x00p\x00t\x00e\x00r' @ 5339 : 1
+2021/01/20-17:59:26.085 3176b8 Compacting 1@1 + 1@2 files
+2021/01/20-17:59:26.124 3176b8 Generated table #8@1: 1887 keys, 1611698 bytes
+2021/01/20-17:59:26.124 3176b8 Compacted 1@1 + 1@2 files => 1611698 bytes
+2021/01/20-17:59:26.127 3176b8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/20-17:59:26.127 3176b8 Delete type=2 #7
+2021/01/20-17:59:26.128 3176b8 Manual compaction at level-1 from '\x00\x08\x01\x1f\x03\x00\xf0\xad\xfd\xa6\xacwB\x00\x01\x0d\x00c\x00r\x00y\x00p\x00t\x00o\x00a\x00d\x00a\x00p\x00t\x00e\x00r' @ 5339 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/01/20-17:59:39.026 3176b8 Level-0 table #10: started
+2021/01/20-17:59:39.035 3176b8 Level-0 table #10: 690503 bytes OK
+2021/01/20-17:59:39.038 3176b8 Delete type=0 #6
+2021/01/20-17:59:39.038 3176b8 Delete type=2 #5
+2021/01/20-17:59:39.038 3176b8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/20-17:59:39.038 31892e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x07\x01\x1f\x03\x00\x80\xa7\xfd\xa6\xacwB\x00\x01\x0d\x00c\x00r\x00y\x00p\x00t\x00o\x00a\x00d\x00a\x00p\x00t\x00e\x00r' @ 8637 : 0
+2021/01/20-17:59:39.038 31892e Compacting 1@1 + 1@2 files
+2021/01/20-17:59:39.079 31892e Generated table #11@1: 2063 keys, 1732355 bytes
+2021/01/20-17:59:39.079 31892e Compacted 1@1 + 1@2 files => 1732355 bytes
+2021/01/20-17:59:39.082 31892e compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/20-17:59:39.082 31892e Delete type=2 #8
+2021/01/20-17:59:39.082 31892e Delete type=2 #10
+2021/01/20-17:59:39.083 31892e Manual compaction at level-1 from '\x00\x07\x01\x1f\x03\x00\x80\xa7\xfd\xa6\xacwB\x00\x01\x0d\x00c\x00r\x00y\x00p\x00t\x00o\x00a\x00d\x00a\x00p\x00t\x00e\x00r' @ 8637 : 0 .. (end); will stop at (end)

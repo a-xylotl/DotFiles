@@ -1,0 +1,5 @@
+2020/12/27-12:53:52.271 ec414 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_ark.intel.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/27-12:55:10.155 111893 Level-0 table #5: started
+2020/12/27-12:55:10.163 111893 Level-0 table #5: 1809 bytes OK
+2020/12/27-12:55:10.166 111893 Delete type=0 #3
+2020/12/27-12:55:10.166 111893 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

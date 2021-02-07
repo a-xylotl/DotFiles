@@ -1,0 +1,5 @@
+2021/01/16-14:24:28.320 166309 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/16-14:24:50.421 154dac Level-0 table #5: started
+2021/01/16-14:24:50.424 154dac Level-0 table #5: 1222 bytes OK
+2021/01/16-14:24:50.428 154dac Delete type=0 #3
+2021/01/16-14:24:50.428 154dac Manual compaction at level-0 from (begin) .. (end); will stop at (end)

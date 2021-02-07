@@ -1,0 +1,8 @@
+2020/12/28-23:24:17.194 c8a6 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_h.online-metrix.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/28-23:24:17.194 c8a6 Recovering log #28
+2020/12/28-23:24:17.194 c8a6 Reusing old log /home/aaxyl/.config/chromium/Default/IndexedDB/https_h.online-metrix.net_0.indexeddb.leveldb/000028.log 
+2020/12/28-23:24:44.749 4213 Level-0 table #32: started
+2020/12/28-23:24:44.749 4213 Level-0 table #32: 0 bytes OK
+2020/12/28-23:24:44.758 4213 Delete type=0 #28
+2020/12/28-23:24:44.758 4213 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/28-23:24:44.758 4213 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

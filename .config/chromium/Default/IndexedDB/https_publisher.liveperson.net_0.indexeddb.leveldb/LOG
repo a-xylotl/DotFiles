@@ -1,0 +1,5 @@
+2020/11/30-08:16:32.803 dd9d Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_publisher.liveperson.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/30-08:27:55.169 e143 Level-0 table #5: started
+2020/11/30-08:27:55.218 e143 Level-0 table #5: 1849 bytes OK
+2020/11/30-08:27:55.264 e143 Delete type=0 #3
+2020/11/30-08:27:55.265 e143 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

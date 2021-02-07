@@ -1,0 +1,8 @@
+2020/12/27-12:23:47.813 864be Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_b44a5bf1e9bed327f9cd3b3d80f48bd0.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/27-12:23:47.813 864be Recovering log #4
+2020/12/27-12:23:47.813 864be Reusing old log /home/aaxyl/.config/chromium/Default/IndexedDB/https_b44a5bf1e9bed327f9cd3b3d80f48bd0.safeframe.googlesyndication.com_0.indexeddb.leveldb/000004.log 
+2020/12/27-12:23:50.734 86248 Level-0 table #8: started
+2020/12/27-12:23:50.734 86248 Level-0 table #8: 0 bytes OK
+2020/12/27-12:23:50.741 86248 Delete type=0 #4
+2020/12/27-12:23:50.741 86248 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/27-12:23:50.741 86248 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
