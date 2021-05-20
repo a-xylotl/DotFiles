@@ -1,5 +1,0 @@
-2020/12/27-12:35:14.568 b4924 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_www.mwave.com.au_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/27-12:35:18.560 b4925 Level-0 table #5: started
-2020/12/27-12:35:18.567 b4925 Level-0 table #5: 5095 bytes OK
-2020/12/27-12:35:18.570 b4925 Delete type=0 #3
-2020/12/27-12:35:18.570 b4925 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

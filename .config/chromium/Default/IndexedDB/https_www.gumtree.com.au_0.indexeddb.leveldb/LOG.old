@@ -1,8 +1,0 @@
-2020/12/28-23:24:16.625 d8b2 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_www.gumtree.com.au_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/28-23:24:16.626 d8b2 Recovering log #29
-2020/12/28-23:24:16.626 d8b2 Reusing old log /home/aaxyl/.config/chromium/Default/IndexedDB/https_www.gumtree.com.au_0.indexeddb.leveldb/000029.log 
-2020/12/28-23:24:19.472 c8a6 Level-0 table #33: started
-2020/12/28-23:24:19.472 c8a6 Level-0 table #33: 0 bytes OK
-2020/12/28-23:24:19.481 c8a6 Delete type=0 #29
-2020/12/28-23:24:19.481 c8a6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/12/28-23:24:19.481 c8a6 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

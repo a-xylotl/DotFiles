@@ -1,5 +1,0 @@
-2020/12/27-12:39:16.841 c6902 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_c4a107831ad31a86eed2eeca60d270d3.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/27-12:39:19.865 c00a6 Level-0 table #5: started
-2020/12/27-12:39:19.869 c00a6 Level-0 table #5: 439 bytes OK
-2020/12/27-12:39:19.873 c00a6 Delete type=0 #3
-2020/12/27-12:39:19.873 c00a6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

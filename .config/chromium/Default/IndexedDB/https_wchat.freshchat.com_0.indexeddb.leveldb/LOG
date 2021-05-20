@@ -1,5 +1,0 @@
-2020/12/25-14:36:51.951 20107 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_wchat.freshchat.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/25-14:36:55.007 1bb07 Level-0 table #5: started
-2020/12/25-14:36:55.013 1bb07 Level-0 table #5: 9283 bytes OK
-2020/12/25-14:36:55.019 1bb07 Delete type=0 #3
-2020/12/25-14:36:55.019 1bb07 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

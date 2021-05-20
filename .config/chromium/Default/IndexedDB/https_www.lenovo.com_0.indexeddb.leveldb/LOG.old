@@ -1,5 +1,0 @@
-2021/01/02-22:03:19.617 dc84a Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_www.lenovo.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/02-22:03:53.994 dc84b Level-0 table #5: started
-2021/01/02-22:03:53.996 dc84b Level-0 table #5: 1386 bytes OK
-2021/01/02-22:03:53.999 dc84b Delete type=0 #3
-2021/01/02-22:03:53.999 dc84b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

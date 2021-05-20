@@ -1,5 +1,0 @@
-2021/02/04-22:51:43.538 3fd80d Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_panelook.aliexpress.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/02/04-22:52:20.558 3fd80d Level-0 table #5: started
-2021/02/04-22:52:20.560 3fd80d Level-0 table #5: 1676 bytes OK
-2021/02/04-22:52:20.563 3fd80d Delete type=0 #3
-2021/02/04-22:52:20.563 3fd80d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

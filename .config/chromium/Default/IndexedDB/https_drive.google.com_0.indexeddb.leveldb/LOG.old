@@ -1,5 +1,0 @@
-2020/12/30-14:09:04.918 2d03c7 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/30-14:22:27.313 3008ec Level-0 table #5: started
-2020/12/30-14:22:27.321 3008ec Level-0 table #5: 631850 bytes OK
-2020/12/30-14:22:27.323 3008ec Delete type=0 #3
-2020/12/30-14:22:27.323 3008ec Manual compaction at level-0 from (begin) .. (end); will stop at (end)
