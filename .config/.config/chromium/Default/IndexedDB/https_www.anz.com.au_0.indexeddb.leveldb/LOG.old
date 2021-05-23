@@ -1,5 +1,0 @@
-2020/12/22-14:40:29.215 14a4e3 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_www.anz.com.au_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/22-14:41:57.199 1e5458 Level-0 table #5: started
-2020/12/22-14:41:57.249 1e5458 Level-0 table #5: 1526 bytes OK
-2020/12/22-14:41:57.294 1e5458 Delete type=0 #3
-2020/12/22-14:41:57.294 1e5458 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

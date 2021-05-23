@@ -1,5 +1,0 @@
-2020/12/02-14:03:05.359 335a8 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/02-14:03:12.418 335a8 Level-0 table #5: started
-2020/12/02-14:03:12.459 335a8 Level-0 table #5: 802 bytes OK
-2020/12/02-14:03:12.517 335a8 Delete type=0 #3
-2020/12/02-14:03:12.518 335a8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

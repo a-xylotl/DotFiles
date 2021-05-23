@@ -1,6 +1,0 @@
-2020/12/23-14:28:24.685 f6362 Reusing MANIFEST /home/aaxyl/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
-2020/12/23-14:28:24.686 f6362 Recovering log #1093
-2020/12/23-14:28:24.687 f6362 Reusing old log /home/aaxyl/.config/chromium/Default/Sync Data/LevelDB/001093.log 
-2020/12/23-14:29:31.048 f6391 Level-0 table #1097: started
-2020/12/23-14:29:31.190 f6391 Level-0 table #1097: 131528 bytes OK
-2020/12/23-14:29:31.299 f6391 Delete type=0 #1093

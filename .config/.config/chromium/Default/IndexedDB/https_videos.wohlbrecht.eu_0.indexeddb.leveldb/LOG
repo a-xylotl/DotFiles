@@ -1,5 +1,0 @@
-2020/12/01-14:17:31.981 9aab Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_videos.wohlbrecht.eu_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/01-14:17:37.848 9200 Level-0 table #5: started
-2020/12/01-14:17:37.905 9200 Level-0 table #5: 77822 bytes OK
-2020/12/01-14:17:37.972 9200 Delete type=0 #3
-2020/12/01-14:17:37.972 9200 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

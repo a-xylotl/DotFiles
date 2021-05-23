@@ -1,5 +1,0 @@
-2020/11/26-08:35:04.262 70dd Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_mega.nz_0.indexeddb.leveldb/MANIFEST-000001
-2020/11/26-08:35:10.958 6f44 Level-0 table #5: started
-2020/11/26-08:35:11.016 6f44 Level-0 table #5: 1149 bytes OK
-2020/11/26-08:35:11.082 6f44 Delete type=0 #3
-2020/11/26-08:35:11.083 6f44 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

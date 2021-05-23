@@ -1,5 +1,0 @@
-2020/12/01-22:37:49.931 29d4b Reusing MANIFEST /home/aaxyl/.config/chromium/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/01-22:39:16.479 29d52 Level-0 table #5: started
-2020/12/01-22:39:16.528 29d52 Level-0 table #5: 9372 bytes OK
-2020/12/01-22:39:16.562 29d52 Delete type=0 #3
-2020/12/01-22:39:16.562 29d52 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
