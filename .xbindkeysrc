@@ -1,0 +1,53 @@
+"cmus-remote --pause"
+	Control+Mod4 + Down
+
+"cmus-remote --stop"
+	Control+Mod4 + Up
+
+"cm_cs.sh"
+	Mod4 + Down
+
+"cm_cs2.sh"
+	Mod4 + Up
+
+"cmus-remote --seek -5"
+	Mod4 + Left
+
+"cmus-remote --seek +5"
+	Mod4 + Right
+
+"cmus-remote --prev"
+	Control+Mod4 + Left
+
+"cmus-remote --next"
+	Control+Mod4 + Right
+
+"scrotsel.sh"
+	Control + Print
+
+"scrotwhole.sh"
+	Print
+
+"recordscreen.sh -n"
+	Mod4 + r
+
+"recordscreen.sh"
+	Control+Mod4 + r
+
+"stoprecordscreen.sh"
+	Control+Mod4 + z
+
+#"xbacklight -dec 10"
+#	XF86MonBrightnessDown
+
+#"xbacklight -inc 10"
+#	XF86MonBrightnessUp
+
+#"sudo powersaving.sh"
+#	Mod4 + XF86MonBrightnessDown
+
+#"sudo performance.sh"
+#	Mod4 + XF86MonBrightnessUp
+
+#"sudo ultraperformance.sh"
+#	Mod4 + XF86Display

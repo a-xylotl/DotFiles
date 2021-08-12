@@ -1,0 +1,6 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+www.nasm.us	0	0	1628664279	7776000
+mirror.fsf.org	0	1	1628664660	63072000
+acpica.org	0	1	1628664042	31536000
